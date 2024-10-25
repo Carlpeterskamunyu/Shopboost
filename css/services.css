@@ -1,0 +1,60 @@
+#heading1{
+    text-align: center;
+}
+
+.paragraph{
+    font-family: sans-serif;
+    font-size: 18px;
+}
+#mydivision{
+    background: blue;
+    margin: 40px;
+    padding: 30px;
+    color: #ffffff;
+}#test{
+    background-color: darkgray;
+    margin: 40px;
+    padding: 40px;
+    display: flex;
+    color: cornsilk;
+ }
+ #test img{
+     margin-right: 40px;
+     border-radius: 400px;
+ }
+ #main{
+     display: flex;
+ }
+
+ #advertisement{
+     background-color: #de0202;
+     color: #fdfbfb;
+     margin-left: 20px;
+     padding: 30px;
+
+
+ }
+ #accounting{
+ background-color: blue;
+     color: #fdfbfb;
+     margin-left: 20px;
+     padding: 30px;
+ }
+ #payment{
+      background-color: forestgreen;
+     color: #fdfbfb;
+     margin-left: 20px;
+     padding: 30px;
+ }
+#advertisement:hover {
+    background-color: #cf741c;
+}
+#accounting:hover {
+ background-color: #741CFF;
+}
+#payment:hover {
+   background-color: #d602fa;
+}
+#advertisement,#accounting,#payment, h1{
+    text-align: center;
+}
